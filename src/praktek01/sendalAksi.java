@@ -11,6 +11,8 @@ package praktek01;
  */
 public class sendalAksi {
     public static void main(String[] args) {
-        
+        Sendal Nippon= new Sendal();
+        Sendal Croccodile= new Sendal();
+        Sendal Eiger = new Sendal ();
     }
 }
