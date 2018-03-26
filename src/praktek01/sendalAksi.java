@@ -32,5 +32,11 @@ public class sendalAksi {
         Outdoor.bahan="Kain Karet";
         Outdoor.jenis="Sendal Gunung";
         Outdoor.ukuran="39 40 41 42";
+        
+        Capal.cetakInfo();
+        System.out.println();
+        Casual.cetakInfo();
+        System.out.println();
+        Outdoor.cetakInfo();
     }
 }
